@@ -6,8 +6,3 @@ Main starting point of this project is home.dart. You can find all the code you 
 
 dependencies:
     slide_to_act: ^2.0.1
-
-
-follow @sam.code.dart on Instagram for more such tutotial.
-click the link to follow:
-    https://www.instagram.com/sam.codes.dart/
